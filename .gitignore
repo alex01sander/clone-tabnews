@@ -7,3 +7,4 @@ build/
 .idea/
 *.log
 .next/
+node_modules/
