@@ -6,5 +6,5 @@ build/
 .vscode/
 .idea/
 *.log
-.next/
-node_modules/
+.next
+node_modules
