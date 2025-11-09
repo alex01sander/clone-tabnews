@@ -1,6 +1,6 @@
 function Home() {
     return (
-        <h1>Você é importante, porra...</h1>
+        <h1>Você é importante, porra... git</h1>
     )
 }
 
