@@ -1,7 +1,5 @@
 function Home() {
-    return (
-        <h1>Você é importante, porra... git</h1>
-    )
+  return <h1>Você é importante, porra... git</h1>;
 }
 
-export default Home
+export default Home;
